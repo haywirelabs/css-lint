@@ -1,0 +1,19 @@
+{
+  "name": "css-lint",
+  "version": "0.0.1",
+  "description": "Node.js app to perform CSS linting and format for JUnit consumption",
+  "main": "bin/css-lint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haywirelabs/css-lint.git"
+  },
+  "author": "Joe Osborne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haywirelabs/css-lint/issues"
+  },
+  "homepage": "https://github.com/haywirelabs/css-lint"
+}
