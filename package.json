@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/haywirelabs/css-lint/issues"
   },
-  "homepage": "https://github.com/haywirelabs/css-lint"
+  "homepage": "https://github.com/haywirelabs/css-lint",
+  "dependencies": {
+    "argparse": "0.1.15"
+  }
 }
